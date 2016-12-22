@@ -1,0 +1,16 @@
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\LogGenerator.exe.config
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\LogGenerator.exe
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\LogGenerator.pdb
+C:\Repos\DistributedLogging\LogGenerator\obj\Debug\LogGenerator.csprojResolveAssemblyReference.cache
+C:\Repos\DistributedLogging\LogGenerator\obj\Debug\LogGenerator.exe
+C:\Repos\DistributedLogging\LogGenerator\obj\Debug\LogGenerator.pdb
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\MonkeyLogger.dll
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\Serilog.dll
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\Serilog.Sinks.RollingFile.dll
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\Serilog.Sinks.Literate.dll
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\Serilog.Sinks.File.dll
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\MonkeyLogger.pdb
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\Serilog.xml
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\Serilog.Sinks.RollingFile.xml
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\Serilog.Sinks.Literate.xml
+C:\Repos\DistributedLogging\LogGenerator\bin\Debug\Serilog.Sinks.File.xml
